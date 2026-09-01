@@ -1,0 +1,6 @@
+material,equipmentEquivalent,country,salesOrg,modality,currentCountryListPrice,countryTargetPrice,serviceAddedValuePct,discountPolicyPct,costPrice,minimumMarginPct,exchangeRate,noReturnPenaltyPct,roundingUnit,effectiveDate,productHierarchy
+453561181211,FUS7445,DE,DX36,Ultrasound,44914.95,19172,11.28,5,4319.08,44.73684211,1,100,5,2026-07-01,HS-US-EPIQ
+453561181212,FUS8391,DE,DX36,Ultrasound,23880.00,10250,9.5,5,2200,42,1,100,5,2026-07-01,HS-US-AFFIX
+453561181213,FUS9120,FR,DX36,Ultrasound,18740.00,8800,8.25,4,1950,40,1,80,5,2026-07-01,HS-US-CLEARVUE
+453561181214,FUS5210,NL,DX36,Ultrasound,12500.00,6100,6.5,5,1480,35,1,60,5,2026-07-01,HS-US-CX50
+453561181215,FUS7445,DE,DX36,Ultrasound,44914.95,,11.28,5,4319.08,44.73684211,1,100,5,2026-07-01,HS-US-EPIQ

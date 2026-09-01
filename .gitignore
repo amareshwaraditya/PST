@@ -1,0 +1,13 @@
+# Python environments and build artifacts
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local Streamlit configuration and secrets
+.streamlit/secrets.toml
+
+# Test and editor artifacts
+.pytest_cache/
+.mypy_cache/
+.vscode/
+.idea/
